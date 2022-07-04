@@ -1,6 +1,8 @@
 <h1 align="center">Hey There, I'm Salma Sherif 👷🏼‍♀️</h1>
 <h3 align="center">A passionate Embedded Software Engineer 💻</h3>
-![code](https://user-images.githubusercontent.com/85197391/177225277-4bd29a2a-c088-43ad-b208-778e49db56ab.jpg)
+![0f1d73f9-c841-4569-ab31-1c7e2b8c1ebb-LinesOfCode](https://user-images.githubusercontent.com/85197391/177225429-6937dbb2-ddfb-4ed7-867b-155cda48a6a8.png)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
