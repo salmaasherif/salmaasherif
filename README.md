@@ -1,5 +1,5 @@
 <h1 align="center">Hey There, I'm Salma Sherif 👷🏼‍♀️</h1>
-<h3 align="center">A passionate Embedded Software Engineer 💻</h3>
+<h3 align="center">A professional Embedded Software Engineer 💻</h3>
 <img src="code.jpg" width=1100 height=250>
 
 <h3 align="left">Connect with me:</h3>
