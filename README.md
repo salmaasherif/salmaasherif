@@ -1,4 +1,4 @@
-<h1 align="center">Hey There, I'm Salma Sherif 👷🏼‍♀️</h1>
+<h1 align="center">Hey There !</h1>
 <h3 align="center">Embedded Software Engineer 💻</h3>
 <img src="code.jpg" width=1100 height=250>
 
